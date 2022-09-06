@@ -1,0 +1,11 @@
+caption {
+  background-color: gray;
+} 
+table {
+  background-color: gray;  
+  border-collapse: collapse;
+}
+th,td {
+  border:1px solid black;
+  width: 100px;
+}

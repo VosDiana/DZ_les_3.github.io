@@ -1,0 +1,25 @@
+table{
+    background-image:url(background-w-b.jpg);
+    border-collapse: collapse;
+    border-style: solid black;
+}
+caption{
+    background-image:url(background-w-b.jpg);
+    font-size: 25px;  
+}
+th {
+    border: solid black;
+}
+tr {
+    border: solid black;
+    font-size: 20px;
+}
+td {
+    border: solid;
+    width: 120px;
+    font-size: 20px;
+    text-align: center;
+}
+td:first-child {
+    text-align: left;
+}

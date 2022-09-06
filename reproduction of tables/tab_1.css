@@ -1,0 +1,16 @@
+table{
+  border-collapse: collapse;
+  border-style: solid black;
+}
+caption{
+  font-size: 20px;  
+}
+tr {
+  border: solid black;
+  font-size: 20px;
+}
+td {
+  border: solid;
+  width: 120px;
+  font-size: 20px;
+}

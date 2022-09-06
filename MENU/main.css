@@ -1,0 +1,13 @@
+body {
+    background: black;
+}
+strong {
+    color: white;
+}
+table {
+    background: url(https://img.freepik.com/free-photo/muffins-candles-aalaw-sprinkles-corner-pink-background_23-2148190399.jpg?w=2000);
+    background-size: cover;
+}
+table {
+    font-size: 40px;
+}

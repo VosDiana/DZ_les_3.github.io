@@ -1,0 +1,36 @@
+table {
+  border-collapse: collapse;
+  border: duble 10px black;
+  letter-spacing: 1px;
+  font-size: 0.8rem;
+  border-left: 6px groove black;
+}
+thead,th, td{
+    border: 5px double black;
+}
+th {
+    border: solid;
+    text-align: left;
+    font-size: 20px;
+}
+td {
+  border: solid;
+  width: 120px;
+  font-size: 20px;
+}
+tbody{
+    border: 1px dotted gray;
+    border: 5px double black;
+    text-align: right;
+    font-size: 20px;
+}
+tfoot{
+   border: 5px double black;
+   text-align: right;
+   font-size: 20px;
+}
+
+td, th {
+  border: 1px solid rgb(190,190,190);
+  padding: 10px 20px;
+}

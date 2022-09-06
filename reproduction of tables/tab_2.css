@@ -1,0 +1,12 @@
+th {
+  background-color: gray;
+  font-size: 20px;
+}
+td {
+  width: 100px;
+  font-size: 20px;
+  font-weight: bold
+}
+td:not(:first-child) {
+  text-align: right;
+}

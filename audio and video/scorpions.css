@@ -1,0 +1,33 @@
+body {
+    background-color: white;
+    background-size: cover;
+}
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-shadow: black;
+    text-align: center;
+}
+a {
+    color: black;
+    text-decoration: double;
+    font-size: 20px;
+}
+.container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 10px;
+  grid-row-gap: 1em;
+}
+.container div {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+  padding: 0.5em;
+}
+a {
+  color: rgb(82, 84, 86);
+  text-decoration: none;
+  font-size: 20px;
+}
+h3 {
+  text-align: center;
+}
